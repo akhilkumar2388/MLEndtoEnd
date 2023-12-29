@@ -2,3 +2,6 @@
 
 # git init
 # git switch -c main -- switch to main
+# git add . -- adds all files
+# git commit -m "this is first commit"
+
